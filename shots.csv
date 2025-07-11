@@ -1,0 +1,30 @@
+Player Name,Short Name,Position,Jersey Number,Is Home,Shot Type,Situation,Incident Type
+Crysencio Summerville,C. Summerville,M,7,False,block,corner,shot
+Luis Guilherme,Luis Guilherme,M,17,True,block,assisted,shot
+Diogo Jota,D. Jota,F,20,True,goal,fast-break,shot
+Virgil van Dijk,V. van Dijk,D,4,False,save,assisted,shot
+Aaron Wan-Bissaka,A. Wan-Bissaka,D,29,False,miss,assisted,shot
+Mohammed Kudus,M. Kudus,M,14,False,miss,assisted,shot
+Mohamed Salah,M. Salah,F,11,False,miss,assisted,shot
+Diogo Jota,D. Jota,F,20,False,save,regular,shot
+Mohamed Salah,M. Salah,F,11,False,miss,fast-break,shot
+Andrew Robertson,A. Robertson,D,26,True,miss,regular,shot
+Trent Alexander-Arnold,T. Alexander-Arnold,D,66,True,goal,assisted,shot
+Luis Díaz,L. Díaz,F,7,True,block,assisted,shot
+Mohamed Salah,M. Salah,F,11,True,miss,assisted,shot
+Mohamed Salah,M. Salah,F,11,False,save,assisted,shot
+Luis Díaz,L. Díaz,F,7,True,block,assisted,shot
+Mohamed Salah,M. Salah,F,11,False,save,fast-break,shot
+Jarrod Bowen,J. Bowen,M,20,False,block,assisted,shot
+Mohamed Salah,M. Salah,F,11,True,goal,assisted,shot
+Cody Gakpo,C. Gakpo,F,18,True,goal,assisted,shot
+Mohammed Kudus,M. Kudus,M,14,False,post,assisted,shot
+Lucas Paquetá,L. Paquetá,M,10,True,miss,assisted,shot
+Curtis Jones,C. Jones,M,17,True,save,assisted,shot
+Luis Díaz,L. Díaz,F,7,False,goal,regular,shot
+Luis Díaz,L. Díaz,F,7,True,miss,corner,shot
+Luis Díaz,L. Díaz,F,7,True,save,fast-break,shot
+Cody Gakpo,C. Gakpo,F,18,True,miss,corner,shot
+Curtis Jones,C. Jones,M,17,False,save,assisted,shot
+Virgil van Dijk,V. van Dijk,D,4,True,miss,corner,shot
+Mohamed Salah,M. Salah,F,11,True,save,assisted,shot
